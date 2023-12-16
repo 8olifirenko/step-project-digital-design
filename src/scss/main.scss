@@ -776,6 +776,7 @@ footer {
   }
 
   &__img {
+    max-width: 100%;
     margin-bottom: 10px;
   }
 
@@ -852,7 +853,7 @@ footer {
 
 
 
-@media screen and (min-width: 768px) and (max-width: 1200px) {
+@media screen and (min-width: 768px) and (max-width: 1265px) {
 
   .what-i-do-background {
     width: 100%;
